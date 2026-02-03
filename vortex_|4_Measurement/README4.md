@@ -5,7 +5,9 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 This task measures real-world lengths/heights in an image using a known reference length.  \
+\f0\fs24 \cf0
+
+This task measures real-world lengths/heights in an image using a known reference length.  \
 The user clicks **two points** on the reference object, enters the real reference length in **cm**, then the program measures any other distance by clicking **two points** again\
 \
 How it works \
